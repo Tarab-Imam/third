@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 void main()
 { 
    char d;
@@ -16,4 +16,5 @@ void main()
   
   default:
     break;
-  }}
+  }
+}
